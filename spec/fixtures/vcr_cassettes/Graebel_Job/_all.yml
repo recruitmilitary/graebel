@@ -1,0 +1,1645 @@
+--- 
+- !ruby/struct:VCR::HTTPInteraction 
+  request: !ruby/struct:VCR::Request 
+    method: :get
+    uri: https://graebel-hr.silkroad.com:443/epostings/index.cfm?fuseaction=app.jobsearch
+    body: 
+    headers: 
+  response: !ruby/struct:VCR::Response 
+    status: !ruby/struct:VCR::ResponseStatus 
+      code: 200
+      message: OK
+    headers: 
+      x-powered-by: 
+      - ASP.NET
+      p3p: 
+      - policyref="/w3c/p3p.xml",CP="NOI CURa ADMa DEVa TAIa IVAa IVDa OUR NOR BUS UNI COM NAV INT"
+      content-type: 
+      - text/html; charset=utf-8
+      content-language: 
+      - en-US
+      server: 
+      - Microsoft-IIS/6.0
+      date: 
+      - Tue, 06 Dec 2011 12:58:46 GMT
+      set-cookie: 
+      - BIGipServer=okI2+vQhoD+OGeRhx/gyGHyUVjLggb6qL2Zsl8+6SA0iEFicR64jrawxhFdPuGY3oTI5+C257paBOLc=; path=/
+      - CENTRALSERVER=srtsql02;path=/
+      - CFID=11931872;path=/
+      - CFTOKEN=82cb2709e35fa65f%2D13747288%2D155D%2D007F%2D0DED206344F3CE66;path=/
+      - COMPANYID=16263;path=/
+      - JSESSIONID=703030967ac4ecafeb4235c5f3fe6e174e6f;path=/
+    body: |
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+      <html>
+      <head>
+      <title>Graebel Companies</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
+      
+      
+      <link rel="STYLESHEET" type="text/css" href="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/graebelext/Admin/Skins/Skin8_Settings.css" />
+      <link rel="STYLESHEET" type="text/css" href="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/graebelext/Admin/Skins/openhire.css" />
+      
+      <!--<link rel="STYLESHEET" type="text/css" href="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/Skins/ps_global_layout/SupportPages/nifty_corners.css" />-->
+      
+      <link rel="shortcut icon" href="https://graebelcareers.silkroad.com:443/eprise/main/SiteGen/graebelext/Content/UnplacedPages/" />
+      
+      <script type="text/javascript" src="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/Skins/ps_global_layout/SupportPages/incJavascript.js"></script>
+      <script type="text/javascript" src="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/Skins/ps_global_layout/SupportPages/niftycube.js"></script>
+      <script type="text/javascript">function clear_search() {document.search_form.search_phrase.value= "";}</script>
+      <script type="text/javascript">
+      window.onload=function()
+      {
+      
+      if(""=="yes")
+      {
+        Nifty('div#sub_nav a','big fixed-height transparent');
+      }
+      }
+      </script>
+      
+      
+      
+      <meta name="description" content="&nbsp;" />
+      <meta name="keywords" content="," />
+      
+      
+      
+      
+      
+      			<!-- OpenHire: 5.1.11 -->
+      			<link rel='P3Pv1' href='/w3c/p3p.xml' />
+      			<link type="text/css" rel="stylesheet" href="/epostings/css/openhireglobal.css" />
+      		</head>
+      <body  class="yui-skin-sam" id="ps-body">
+      
+      <div id="page_container">
+      <!--NOT A HOME PAGE-->
+      <div id="box_header">
+      <a href="https://graebelcareers.silkroad.com:443/"><img src="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/graebelext/Content/Uploads/Images/header.jpg" border=0></a>
+      <div style="float:right;">
+      
+      </div>
+      </div>
+      <div id="box_subheader">
+          <div id="main_nav">
+          <ul id="main_nav_list">
+      <li id="active"><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings.html" title="Employment Listings" class="main_nav_list_first" >Employment Listings</a></li><li><a href="https://graebelcareers.silkroad.com:443/" title="Home" class="" >Home</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/Events.html" title="Events" class="" >Events</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/Announcements.html" title="Announcements" class="" >Announcements</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/About_our_Company.html" title="About Us" class="" >About Us</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/FAQs.html" title="FAQs" class="" >FAQs</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/Contact_Us.html" title="Contact Us" class="main_nav_list_last" >Contact Us</a></li>
+          </ul>
+          </div>
+        </div>
+        <div id="body_container"> <!-- L_Col -->
+      <div id="box_col_left"> 
+        <div id="sub_nav"><ul id="sub_nav_list"><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Jobs1.html" class="sub_nav_list_first">Search Current Openings</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Update_Your_Profile.html" class="">Update Your Profile</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Create_a_Job_Agent.html" class="">Create a Job Agent</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Update_Job_Agent.html" class="">Update Job Agent</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Recruiting_Agency_Login.html" class="sub_nav_list_last">Recruiting Agency Login</a></li></ul></div> 
+        <!--KEEP-->&nbsp; 
+      </div>      
+          <div id="box_col_center_L_Col"> 
+      <table>
+      <tr>
+      <td>
+      	
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      	
+      	
+      	
+      	
+      	
+      
+      	
+      	
+      
+      
+      
+      
+      
+      
+      
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      	
+      
+      
+      
+      	
+      
+      
+      
+      	
+      		
+      		
+      		
+      
+      		
+      
+      		
+      
+      		
+      
+      		
+      	
+      	
+      
+      	
+      
+      
+      
+      	
+      		
+      		
+      
+      		
+      		
+      		
+      		
+      		
+      	
+      
+      	
+      	
+      
+      	
+      		<p class="cssSearchResultsTitle">Search Results</p>
+      		<div class="cssSearchResultsHead">
+      			Your search&nbsp;returned <SPAN class="cssHighlight"><span class="cssHighlight">26</span></SPAN> matching record(s).
+      		</div>
+      		<script type="text/javascript">
+      		/* <![CDATA[ */
+      		function doSection(secID) {
+      			var mySpan = document.getElementById(secID);
+      			if (mySpan.style.display=="none") {
+      				mySpan.style.display="block";
+      			} else {
+      				mySpan.style.display="none";
+      			}
+      		}
+      		/* ]]> */
+      		</script>
+      
+      		
+      		<p class="cssSearchResultsHead">[ <a id="searchResultsHead" href="#jobsearch" onclick="doSection('srchArea');" class="cssSearchResultsHead">Conduct another search</a> ]</p>
+      		<!-- jobsearch007 -->
+      		<div class="cssSearchResults">
+      			<table class="cssSearchResults" cellpadding="2" cellspacing="0" border="0">
+      				<tr class="cssSearchResultsColHead">
+      					<td align="center" class="cssSearchResultsColHead"><a id="header_trackingCode" href="index.cfm?company_id=16263&amp;version=1&amp;tcorder=asc&amp;fuseaction=app.jobsearch&amp;thiscol=TRACKINGCODE&amp;bystate=&amp;bycountry=&amp;keywords=&amp;bylocation=&amp;byCat=&amp;newsort=yes&amp;tosearch=no">Tracking Code</a></td>
+      					<td align="center" class="cssSearchResultsColHead"><a id="header_jobTitle" href="index.cfm?company_id=16263&amp;version=1&amp;jtorder=asc&amp;fuseaction=app.jobsearch&amp;thiscol=job_title&amp;bystate=&amp;bycountry=&amp;keywords=&amp;bylocation=&amp;byCat=&amp;newsort=yes&amp;tosearch=no">Job Title</a></td>
+      					<td align="center" class="cssSearchResultsColHead"><a id="header_location" href="index.cfm?company_id=16263&amp;version=1&amp;lorder=asc&amp;fuseaction=app.jobsearch&amp;thiscol=state,city&amp;bystate=&amp;bycountry=&amp;keywords=&amp;bylocation=&amp;byCat=&amp;newsort=yes&amp;tosearch=no">Location</a></td>
+      					<td align="center" class="cssSearchResultsColHead"><a id="header_datePosted" href="index.cfm?company_id=16263&amp;version=1&amp;dporder=asc&amp;fuseaction=app.jobsearch&amp;thiscol=postingdate&amp;bystate=&amp;bycountry=&amp;keywords=&amp;bylocation=&amp;byCat=&amp;newsort=yes&amp;tosearch=no">Date Posted</a></td>
+      				</tr>
+      
+      				
+      				
+      					
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">140-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_140" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=140&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Training Manager</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/30/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">141-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_141" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=141&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Commercial Services Account Manager</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/30/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">139-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_139" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=139&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992546&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Wausau, WI, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/29/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">138-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_138" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=138&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992546&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">OA/DA Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Buffalo Grove, IL, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/29/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">134-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_134" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=134&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/22/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">135-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_135" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=135&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Colorado Springs, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/22/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">136-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_136" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=136&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Randolph, NJ, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/22/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">133-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_133" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=133&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Commercial Dispatcher</a></td>
+      							<td align="left" class="cssSearchResultsBody">Houston, TX, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/17/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">131-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_131" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=131&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Global Household Goods Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/15/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">132-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_132" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=132&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Manager, Vendor Management - GRSW</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/15/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">130-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_130" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=130&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992546&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Assistant</a></td>
+      							<td align="left" class="cssSearchResultsBody">Wausau, WI, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/11/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">129-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_129" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=129&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992461&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">National Account Sales Representative</a></td>
+      							<td align="left" class="cssSearchResultsBody">Fairfield, OH, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/11/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">997 HRG CS</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_39" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=39&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992273&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Sr. Human Resources Generalist</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/08/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">128-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_128" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=128&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Warehouse Manager</a></td>
+      							<td align="left" class="cssSearchResultsBody">San Jose, CA, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/04/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">127-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_127" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=127&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992546&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Coordinator II</a></td>
+      							<td align="left" class="cssSearchResultsBody">Norcross, GA, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/03/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">126-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_126" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=126&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">International Assignment Consultant</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">11/02/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">124-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_124" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=124&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Accounting Specialist - Expense</a></td>
+      							<td align="left" class="cssSearchResultsBody">Alpharetta, GA, US</td>
+      							<td align="center" class="cssSearchResultsBody">10/31/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">122-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_122" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=122&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Relocation Associate</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">10/19/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">120-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_120" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=120&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992546&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Accounting Clerk II</a></td>
+      							<td align="left" class="cssSearchResultsBody">Wausau, WI, US</td>
+      							<td align="center" class="cssSearchResultsBody">10/13/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">115-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_115" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=115&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">International Forwarder</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">10/07/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">984-CSA-MV</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_95" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=95&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992546&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Customer Service Assistant</a></td>
+      							<td align="left" class="cssSearchResultsBody">Buffalo Grove, IL, US</td>
+      							<td align="center" class="cssSearchResultsBody">09/26/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">109-263</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_109" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=109&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Manager, Client Accounting</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">09/21/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">936 - CDC - AK</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_90" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=90&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Central Dispatch Coordinator - Mgmt Trainee</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">08/04/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">994 - MMC - JR</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_87" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=87&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">Move Management Counselor</a></td>
+      							<td align="left" class="cssSearchResultsBody">Aurora, CO, US</td>
+      							<td align="center" class="cssSearchResultsBody">07/22/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsHighlight">
+      							<td align="center" class="cssSearchResultsBody">934 - IHHGC - OG</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_76" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=76&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">International Household Goods Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Randolph, NJ, US</td>
+      							<td align="center" class="cssSearchResultsBody">07/07/2011</td>
+      						</tr>
+      					
+      						<tr class="cssSearchResultsLowlight">
+      							<td align="center" class="cssSearchResultsBody">934 - IHHGC - WA</td>
+      							<td align="left" class="cssSearchResultsBody"><a id="jobTitle_46" href="index.cfm?fuseaction=app.jobinfo&amp;jobid=46&amp;company_id=16263&amp;source=ONLINE&amp;JobOwner=992458&amp;bycountry=&amp;bystate=&amp;bylocation=&amp;keywords=&amp;byCat=&amp;tosearch=no" class="cssSearchResultsBody">International Household Goods Coordinator</a></td>
+      							<td align="left" class="cssSearchResultsBody">Kent, WA, US</td>
+      							<td align="center" class="cssSearchResultsBody">05/27/2011</td>
+      						</tr>
+      					
+      				
+      			</table>
+      		</div>
+      
+      		<div id="srchArea" style="display:none;">
+      			
+      			
+      
+      
+      
+      
+      
+      
+      
+      	
+      		
+      			<script type="text/javascript">
+      			/* <![CDATA[ */
+      			function showKeyValue(evt) {
+      				evt = evt || window.event;
+      				if (evt.keyCode == 13) {
+      					chkWords();
+      				}
+      				return false;
+      			}
+      			function chkWords() {
+      				if (document.frmsearch.keywords.value.indexOf('*') > 0)
+      				{
+      					alert("Please do not use any wildcard parameters from the search term");
+      					document.frmsearch.keywords.focus();
+      				}
+      				else
+      				{
+      					document.frmsearch.submit();
+      					document.frmsearch.Search.disabled=true;
+      				}
+      			}
+      			/* ]]> */
+      			</script>
+      			<noscript>
+      				<p>You do not have javascript enabled to use the Keyword search.</p>
+      			</noscript>
+      
+      			
+      	
+      	
+      
+      	
+      	
+      	
+      	
+      	
+      
+      
+      			
+      
+      			<a id="jobSearch" name="jobsearch" onfocus="document.frmsearch.search.focus()"></a>
+      
+      			<form id="frmsearch" action="?fuseaction=app.jobsearch" method="post" name="frmsearch" class="cssSearch" onsubmit="false">
+      				<input type="hidden" name="company_id" value="16263" />
+      				<input type="hidden" name="version" value="1" />
+      				<input type="hidden" name="tosearch" value="yes" />
+      
+      				
+      				
+      				<div id="searchWordingDiv" class="cssSearchBody"><p><br /><span class="cssEditResTitle">Job Search</span><br />Please enter search terms below (e.g., Marketing, Call Center, Seasonal, Developer).<br /><br /><em>Hold down the <strong>Ctrl</strong> key (<strong>Command</strong> key for Mac) to make multiple selections or to deselect items</em></p></div>
+      				<div id="searchKeyWordsDiv" class="cssSearchBody">
+      					<span class="cssSearchTitle"><label for="keywords">Enter Search Terms</label></span><br />
+      					<input type="text" name="keywords" id="keywords" class="cssFormData" value="" onkeypress="showKeyValue(event);" />
+      				</div>
+      
+      				
+      				
+      					
+      
+      
+      					<div id="searchKeyWordFilterDiv" class="cssSearchBody">
+      						<span class="cssSearchTitle"><label for="byCat">Filter by Category</label></span><br />
+      						<select name="byCat" id="byCat" class="cssApplyFormData" multiple="multiple" size="5" onchange="if(this.value.length==0){alert('Please select a Category or default to All');this.selectedIndex=0;}">
+      							<option id="byCat_" value="NULL">All Categories</option>
+      							
+      								<option id="byCat_36306" value="36306">Accounting and Finance</option>
+      							
+      								<option id="byCat_36308" value="36308">Clerical and Administrative</option>
+      							
+      								<option id="byCat_36309" value="36309">College-level and Internships</option>
+      							
+      								<option id="byCat_36399" value="36399">Company Test Job Category</option>
+      							
+      								<option id="byCat_36344" value="36344">Credit and Collections</option>
+      							
+      								<option id="byCat_36310" value="36310">Customer Service</option>
+      							
+      								<option id="byCat_36350" value="36350">Executive Management</option>
+      							
+      								<option id="byCat_36353" value="36353">Facilities and Purchasing</option>
+      							
+      								<option id="byCat_36311" value="36311">Human Resources</option>
+      							
+      								<option id="byCat_36359" value="36359">Information Technology</option>
+      							
+      								<option id="byCat_36367" value="36367">International</option>
+      							
+      								<option id="byCat_36373" value="36373">Operations</option>
+      							
+      								<option id="byCat_36374" value="36374">Production / Warehouse</option>
+      							
+      								<option id="byCat_36380" value="36380">Relocation Services</option>
+      							
+      								<option id="byCat_36384" value="36384">Risk Management and Safety</option>
+      							
+      								<option id="byCat_36385" value="36385">Sales</option>
+      							
+      								<option id="byCat_36316" value="36316">Transportation and Logistics</option>
+      							
+      						</select>
+      					</div>
+      				
+      				
+      
+      				
+      				<div id="searchLocationFilterDiv" class="cssSearchBody">
+      				
+      					<span class="cssSearchTitle"><label for="byLocation">Filter by Location</label></span><br />
+      					<select name="byLocation" id="byLocation" class="cssApplyFormData" multiple="multiple" size="5" onchange="if(this.value.length==0){alert('Please select a Location or default to All');this.selectedIndex=0;}if(this.value.indexOf('.')>0){document.frmsearch.bycountry.value=1;document.frmsearch.bystate.value=0;}else{document.frmsearch.bycountry.value=0;document.frmsearch.bystate.value=1;}">
+      						<option id="byLocation_" value="NULL">All Locations</option>
+      						<optgroup label="COUNTRIES">
+      							
+      								
+      									<option id="byLocation_US_" value="US." >UNITED STATES                                               </option>
+      								
+      							
+      						</optgroup>
+      						<optgroup label="State/Province/Region">
+      							
+      								<option id="byLocation_CA" value="CA" >California</option>
+      							
+      								<option id="byLocation_CO" value="CO" >Colorado</option>
+      							
+      								<option id="byLocation_GA" value="GA" >Georgia</option>
+      							
+      								<option id="byLocation_IL" value="IL" >Illinois</option>
+      							
+      								<option id="byLocation_NJ" value="NJ" >New Jersey</option>
+      							
+      								<option id="byLocation_OH" value="OH" >Ohio</option>
+      							
+      								<option id="byLocation_TX" value="TX" >Texas</option>
+      							
+      								<option id="byLocation_WA" value="WA" >Washington</option>
+      							
+      								<option id="byLocation_WI" value="WI" >Wisconsin</option>
+      							
+      						</optgroup>
+      					</select>
+      				
+      				
+      				</div>
+      				<input type="hidden" name="bycountry" value="" />
+      				<input type="hidden" name="bystate" value="" />
+      				<div id="jobSearchButtonDiv" class="cssSearchBody"><input type="button" name="Search" id="Search" value="Perform Search" class="cssFormButton" onclick="chkWords();" onkeypress="chkWords();" /></div>
+      			</form>
+      		
+      	
+      
+      
+      
+      			
+      		</div>
+      		<div class="cssSearchResultsHead">
+      			[ <a id="searchResultsFoot" href="#jobsearch" onclick="doSection('srchArea');" class="cssSearchResultsHead">Conduct another search</a> ]
+      		</div>
+      		<div class="cssSearchResults">
+      			<form name="frmSrchExit" action="submit.cfm">
+      				<input type="button" value="Return To Job Listings" class="cssFormButton" onclick="self.location='/epostings/index.cfm?fuseaction=app.welcome&amp;company_id=16263&amp;version=1';" />
+      			</form>
+      		</div>
+      	
+      
+      
+      
+      
+      
+      
+      
+      	
+      
+      	
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      	
+      
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+        
+      
+      
+      		
+      
+      
+      
+      
+      	
+      		
+      		
+      	
+      
+      
+      
+      	
+      		</td>
+      </tr>
+      </table>
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </div>
+      
+        </div>
+      
+      
+      <div id="box_footer">
+      <center>
+      Copyright 2011  All rights reserved.<br /><br />
+      Graebel Companies 
+      </center>
+      </div>
+      </div>
+      <!--[if lt IE 8]>&nbsp;<![endif]--><!--THERE MUST BE SOMETHING HERE ELSE IE6 AND IE7 WILL IGNORE BOTTOM PAGE MARGIN-->
+      
+      <!-- NEW LEAF MENU ADMIN TOOLBAR START HERE -->
+      
+         <div id="leafToolbar" class="leafToolbarStyle" >
+      
+              <span id="toolbar_options" style="float:right; display:inline"></span>
+      
+         </div> 
+      
+      <!-- NEW LEAF MENU ADMIN TOOLBAR END HERE -->
+      
+      
+      </body>
+      </html> 
+      
+      	
+
+    http_version: "1.1"
+- !ruby/struct:VCR::HTTPInteraction 
+  request: !ruby/struct:VCR::Request 
+    method: :get
+    uri: https://graebel-hr.silkroad.com:443/epostings/index.cfm?JobOwner=992458&byCat=&bycountry=&bylocation=&bystate=&company_id=16263&fuseaction=app.jobinfo&jobid=140&keywords=&source=ONLINE&tosearch=no
+    body: 
+    headers: 
+  response: !ruby/struct:VCR::Response 
+    status: !ruby/struct:VCR::ResponseStatus 
+      code: 200
+      message: OK
+    headers: 
+      x-powered-by: 
+      - ASP.NET
+      p3p: 
+      - policyref="/w3c/p3p.xml",CP="NOI CURa ADMa DEVa TAIa IVAa IVDa OUR NOR BUS UNI COM NAV INT"
+      content-type: 
+      - text/html; charset=utf-8
+      content-language: 
+      - en-US
+      server: 
+      - Microsoft-IIS/6.0
+      date: 
+      - Tue, 06 Dec 2011 12:58:47 GMT
+      set-cookie: 
+      - BIGipServer=rYeSchZd7MrbMlZafO20QEwVnJJJkg7Kv4dOQdRLTC8v9saSrusDIdiowcMZ7KnBBl0xoboFfmD8Beo=; path=/
+      - CENTRALSERVER=srtsql02;path=/
+      - CFID=11931873;path=/
+      - CFTOKEN=2b88d8d4a33bf52c%2D13747612%2D155D%2D007F%2D0DC4C5E1C9A7C303;path=/
+      - COMPANYID=16263;path=/
+      - JSESSIONID=7030f0de9d163e27135027315e1773a01e33;path=/
+    body: |
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+      <html>
+      <head>
+      <title>Graebel Companies</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
+      
+      
+      <link rel="STYLESHEET" type="text/css" href="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/graebelext/Admin/Skins/Skin8_Settings.css" />
+      <link rel="STYLESHEET" type="text/css" href="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/graebelext/Admin/Skins/openhire.css" />
+      
+      <!--<link rel="STYLESHEET" type="text/css" href="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/Skins/ps_global_layout/SupportPages/nifty_corners.css" />-->
+      
+      <link rel="shortcut icon" href="https://graebelcareers.silkroad.com:443/eprise/main/SiteGen/graebelext/Content/UnplacedPages/" />
+      
+      <script type="text/javascript" src="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/Skins/ps_global_layout/SupportPages/incJavascript.js"></script>
+      <script type="text/javascript" src="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/Skins/ps_global_layout/SupportPages/niftycube.js"></script>
+      <script type="text/javascript">function clear_search() {document.search_form.search_phrase.value= "";}</script>
+      <script type="text/javascript">
+      window.onload=function()
+      {
+      
+      if(""=="yes")
+      {
+        Nifty('div#sub_nav a','big fixed-height transparent');
+      }
+      }
+      </script>
+      
+      
+      
+      <meta name="description" content="&nbsp;" />
+      <meta name="keywords" content="," />
+      
+      
+      
+      
+      <script type='text/javascript' src='../javascript/fCountChar.js'></script>
+      			<!-- OpenHire: 5.1.11 -->
+      			<link rel='P3Pv1' href='/w3c/p3p.xml' />
+      			<link type="text/css" rel="stylesheet" href="/epostings/css/openhireglobal.css" />
+      		</head>
+      <body  class="yui-skin-sam" id="ps-body">
+      
+      <div id="page_container">
+      <!--NOT A HOME PAGE-->
+      <div id="box_header">
+      <a href="https://graebelcareers.silkroad.com:443/"><img src="https://graebelcareers.silkroad.com:443/map_images/main/SiteGen/graebelext/Content/Uploads/Images/header.jpg" border=0></a>
+      <div style="float:right;">
+      
+      </div>
+      </div>
+      <div id="box_subheader">
+          <div id="main_nav">
+          <ul id="main_nav_list">
+      <li id="active"><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings.html" title="Employment Listings" class="main_nav_list_first" >Employment Listings</a></li><li><a href="https://graebelcareers.silkroad.com:443/" title="Home" class="" >Home</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/Events.html" title="Events" class="" >Events</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/Announcements.html" title="Announcements" class="" >Announcements</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/About_our_Company.html" title="About Us" class="" >About Us</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/FAQs.html" title="FAQs" class="" >FAQs</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/Contact_Us.html" title="Contact Us" class="main_nav_list_last" >Contact Us</a></li>
+          </ul>
+          </div>
+        </div>
+        <div id="body_container"> <!-- L_Col -->
+      <div id="box_col_left"> 
+        <div id="sub_nav"><ul id="sub_nav_list"><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Jobs1.html" class="sub_nav_list_first">Search Current Openings</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Update_Your_Profile.html" class="">Update Your Profile</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Create_a_Job_Agent.html" class="">Create a Job Agent</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Update_Job_Agent.html" class="">Update Job Agent</a></li><li><a href="https://graebelcareers.silkroad.com:443/graebelext/EmploymentListings/Recruiting_Agency_Login.html" class="sub_nav_list_last">Recruiting Agency Login</a></li></ul></div> 
+        <!--KEEP-->&nbsp; 
+      </div>      
+          <div id="box_col_center_L_Col"> 
+      <table>
+      <tr>
+      <td>
+      	
+      
+      
+      
+      <script type="text/javascript">
+      /* <![CDATA[ */
+      function URLReplacePlus(strIn) {
+      	var a = "+";
+      	var b = "%43";
+      	var c = strIn;
+      	var i = c.indexOf(a);
+      	var l = b.length;
+      	while (i != -1) { c = c.substring(0,i) + b + c.substring(i + a.length,c.length); i = c.indexOf(a,i); }
+      	return c;
+      }
+      
+      function emailFriend()
+      {
+      	var loc, coname, jobtitle;
+      	coname=document.applyjob.companyname.value;
+      	coname=URLReplacePlus(coname);
+      	coname=escape(coname);
+      	jobtitle=document.applyjob.job_title.value;
+      	jobtitle=URLReplacePlus(jobtitle);
+      	jobtitle=escape(jobtitle);
+      
+      	var applyJob = document.getElementById("applyJob");
+      	var jobid = applyJob.jobid.value;
+      	var source = applyJob.source.value;
+      	var jobOwner = applyJob.JobOwner.value;
+      	var version = applyJob.version.value;
+      
+      	var jobAttrib = "jobid=" + jobid + "&source=" + source + "&jobOwner=" + jobOwner;
+      
+      	loc = "http://graebel-hr.silkroad.com/epostings/submit.cfm?fuseaction=app.mailform&company_id=16263&companyname="+coname+"&job_title="+jobtitle+"&version=1&server=graebel-hr.silkroad.com&mapping=/epostings/&showtemp=0&" + jobAttrib;
+      
+      	window.open(loc,"emform","resizable=yes,scrollbars=yes,width=650,height=400");
+      }
+      /* ]]> */
+      </script>
+      
+      	
+      		
+      		
+      
+      		
+      		
+      	
+      		
+      	
+      	
+      	
+      	
+      	
+      	
+      	
+      	
+      	
+      		
+      	
+      	
+      		
+      	
+      	
+      		
+      	
+      	
+      		
+      		
+      	
+      		<form id="applyJob" method="post" action="?fuseaction=app.newsubmission">
+      			<div class="ui-form">
+      				
+      				<input type="hidden" name="submissiontype" value="4" />
+      				<input type="hidden" name="previewedit" value="1" />
+      				<input type="hidden" name="altsource" value="0" />
+      				<input type="hidden" name="jobid" value="140" />
+      				<input type="hidden" name="job_title" value="Training Manager (140-263)" />
+      				<input type="hidden" name="JobOwner" value="992458" />
+      				<input type="hidden" name="positionlocation" value="Aurora, CO, US." />
+      				<input type="hidden" name="source" value="ONLINE" />
+      				<input type="hidden" name="company_id" value="16263" />
+      				<input type="hidden" name="companyname" value="Graebel Companies, Inc." />
+      				<input type="hidden" name="version" value="1" />
+      				<input type="hidden" name="location_id" value="65873" />
+      				<input type="hidden" name="resumetype" value="0" />
+      				<input type="hidden" name="backaction" value="fuseaction=app.jobinfo&company_id=16263&bylocation=bylocation&bystate=bystate&keywords=keywords&JobOwner=992458&byCat=byCat&jobid=140&tosearch=no&bycountry=bycountry&source=ONLINE" />
+      				<div id="jobTitleDiv" class="cssDspJobTitle">Training Manager</div>
+      				<div id="trackCodeDiv" class="cssDspJobHead">Tracking Code</div>
+      				<div id="jobCodeDiv" class="cssDspJobBody">
+      					
+      						140-263
+      						
+      				</div>
+      				<div id="dspJobTxtDescDiv" class="cssDspJobHead">Job Description</div>
+      				<div id="jobDesciptionDiv" class="cssDspJobBody"><p>The Training Manager is responsible for planning, organizing, leading and supervising the Graebel training function. This includes providing new hire and incumbent development through utilizing adult learning methodologies and practices, facilitation of lectures, webinars, hands-on and web-based training,</p></div>
+      				
+      					<div id="dspJobTxtReqSkillsDiv" class="cssDspJobHead">Required Skills</div>
+      					<div id="jobRequiredSkillsDiv" class="cssDspJobBody"><ul>
+      <li>Identifying training and development needs within an organization</li>
+      <li>Develops, writes and coordinates training programs working with specific departments/divisions and leaders of each functional area. </li>
+      <li>Creates a means of measuring the effectiveness and ROI of divisional training programs.</li>
+      <li>Utilizes a professional and engaging approach in the presentation of training programs, ensuring interactive methods are employed.</li>
+      <li>Conducts training initiatives/classes in a manner consistent with supporting the business in meeting its goals and objectives; i.e., ensure trainees are adequately prepared</li>
+      <li>Participates in training focus group meetings and on training project teams for the purpose of identifying areas of opportunity and trends to enhance training curriculum.</li>
+      <li>Considers the costs of planned programs and keeping within budgets.</li>
+      </ul></div>
+      				
+      				
+      					<div id="dspJobTxtReqExpDiv" class="cssDspJobHead">Required Experience</div>
+      					<div id="jobExperienceRqdDiv" class="cssDspJobBody"><p><strong>EDUCATION AND WORK EXPERIENCE REQUIRED:</strong></p>
+      <ul>
+      <li>College degree in one or more of the following: 
+      <ul>
+      <li>Human Resources/Organizational Development</li>
+      <li>Communications</li>
+      <li>Business Administration</li>
+      </ul>
+      </li>
+      <li>Minimum five (5) years experience in a corporate training function. </li>
+      <li>Extensive experience utilizing a Learning Management System (preferably Skill Soft).</li>
+      <li>Creative ability, writing proficiency, visual graphics design ability.</li>
+      <li>Strong organizational skills.&#160; </li>
+      <li>Ability to travel (typically up to 20%) to our 40 branch locations as determined by business need.</li>
+      <li>Proficient public speaker, including being at ease moderating large groups.</li>
+      </ul></div>
+      				
+      				
+      					<div id="dspjobTxtCompLocDiv" class="cssDspJobHead">Company Location</div>
+      					<div id="jobCompanyLocationDiv" class="cssDspJobBody">Graebel Companies, Inc. (997)</div>
+      				
+      				<div id="dspJobTxtJobLocDiv" class="cssDspJobHead">Job Location</div>
+      				<div id="jobPositionLocationDiv" class="cssDspJobBody">Aurora, CO, US.</div>
+      				
+      					<div id="dspJobTxtPosTypeDiv" class="cssDspJobHead">Position Type</div>
+      					<div id="translatedJobPostingTypeDiv" class="cssDspJobBody">Full-Time/Regular</div>
+      				
+      				
+      					
+      				
+      				
+      				
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      				
+      				
+      				
+      				
+      				
+      				<div class="footerActionBar">
+      					<div id="applyBubble" class="actionBubble">
+      						<div class="actionBubble-header">
+      							<h4>Apply</h4>
+      						</div>
+      						<div class="actionBubble-content">
+      							
+      								
+      								
+      							
+      							<input type="button" class="ui-form-field-button" id="newResumeButton" value="New Resume/CV" onclick="document.getElementById('applyJob').submit();" />
+      							
+      								
+      									
+      										
+      										
+      									
+      									<br /><br /><input type="button" class="ui-form-field-button" id="existingResumeButton" value="Existing Resume/CV" onclick="window.location='submit.cfm?fuseaction=app.res_login&amp;id=23&amp;jobid=140&amp;company_id=16263&amp;version=1&amp;jobowner=992458&amp;aid=0&amp;fid=0&amp;bystate=&amp;bylocation=&amp;bycountry=&amp;bycat=&amp;keywords='" />
+      								
+      							
+      						</div>
+      					</div>
+      					
+      
+      		
+      		
+      
+      		
+      						<div id="connectBubble" class="actionBubble">
+      							<div class="actionBubble-header">
+      								<h4>Connect</h4>
+      							</div>
+      							<div class="actionBubble-content">
+      								Who do you know at<br />
+      								<strong>Graebel Companies</strong> <span id="linkedInCompanyInsider"></span>
+      								<script src="http://www.linkedin.com/companyInsider?script&useBorder=yes"></script>
+      								<script>
+      									if (typeof LinkedIn !== 'undefined') {
+      										new LinkedIn.CompanyInsiderPopup("linkedInCompanyInsider", "Graebel Companies");
+      									}
+      								</script>
+      							</div>
+      						</div>
+      					
+      					
+      						<div id="shareBubble" class="actionBubble">
+      							<div class="actionBubble-header">
+      								<h4>Share</h4>
+      							</div>
+      							<div class="actionBubble-content">
+      								<!-- AddThis Button BEGIN -->
+      								<div class="addthis_toolbox addthis_default_style"
+      									addthis:url="https://graebel-hr.silkroad.com/epostings/?fuseaction=app.jobinfo&amp;jobid=140&amp;version=1"
+      									addthis:title="Graebel Companies, Inc. - Training Manager">
+      									<a class="addthis_button_linkedin"></a>
+      									<a class="addthis_button_facebook"></a>
+      									<a class="addthis_button_twitter"></a>
+      									<a class="addthis_button_email"></a>
+      									<a class="addthis_button_compact"></a>
+      								</div>
+      								<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d34add83780e935"></script>
+      								<!-- AddThis Button END -->
+      							</div>
+      						</div>
+      					
+      				</div>
+      				<div id="backPageButton1Div" class="cssDspJobHead">
+      					<a href="/epostings/submit.cfm?fuseaction=app.welcome&company_id=16263&version=1&tosearch=no&keywords=&bycountry=&bystate=&bylocation=&byCat=&startflag=0">Return To Job Listings</a>
+      					<input type="hidden" name="returnParm" value="/epostings/submit.cfm?fuseaction=app.welcome&company_id=16263&version=1&tosearch=no&keywords=&bycountry=&bystate=&bylocation=&byCat=&startflag=0" />
+      				</div>
+      			</div>
+      		</form>
+      	
+      	
+      <br />
+      
+      
+      
+      
+      	
+      
+      	
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      	
+      
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      
+      	
+      
+      	
+      	
+      
+      	
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+      	
+      
+        
+      
+      
+      		
+      
+      
+      
+      
+      	
+      		
+      		
+      	
+      
+      
+      
+      	
+      		</td>
+      </tr>
+      </table>
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      </div>
+      
+        </div>
+      
+      
+      <div id="box_footer">
+      <center>
+      Copyright 2011  All rights reserved.<br /><br />
+      Graebel Companies 
+      </center>
+      </div>
+      </div>
+      <!--[if lt IE 8]>&nbsp;<![endif]--><!--THERE MUST BE SOMETHING HERE ELSE IE6 AND IE7 WILL IGNORE BOTTOM PAGE MARGIN-->
+      
+      <!-- NEW LEAF MENU ADMIN TOOLBAR START HERE -->
+      
+         <div id="leafToolbar" class="leafToolbarStyle" >
+      
+              <span id="toolbar_options" style="float:right; display:inline"></span>
+      
+         </div> 
+      
+      <!-- NEW LEAF MENU ADMIN TOOLBAR END HERE -->
+      
+      
+      </body>
+      </html> 
+      
+      	
+
+    http_version: "1.1"
