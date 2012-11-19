@@ -62,8 +62,8 @@ module Graebel
     def description
       document = self.class.fetch_document(url)
 
-      document.at(".ui-form").elements.select { |element|
-        DESCRIPTION_IDS.include?(element.attr('id'))
+      DESCRIPTION_IDS.map { |id|
+        document.search("##{id}")
       }.join
     end
 
